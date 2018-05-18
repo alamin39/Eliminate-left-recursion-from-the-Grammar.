@@ -1,0 +1,9 @@
+A->A-e|b
+
+B->Bd|b|Bc|Bf|m
+
+P->PX|Ppb|Xp|a|p
+X->m|n
+
+
+
